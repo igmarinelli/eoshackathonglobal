@@ -1,0 +1,14 @@
+{
+    "plugins": ["youtube", "timeline"],
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "night",
+            "family": "sans",
+            "size": 2.5
+        }
+    },
+    "links": {
+        "sidebar": []
+    },
+    "language": "pt"
+}
