@@ -2,7 +2,7 @@
 
 ## PROGRAMAÇÃO
 
-Abaixo estão listadas as datas mais relevantes da HackBrazil e o que acontecerá em cada etapa. 
+Abaixo estão listadas as datas mais relevantes da HackBrazil e o que acontecerá em cada etapa.
 
 > Exceto se especificamente previsto de forma diferente, os prazos abaixo serão encerrados a meia noite \(horário de Brasília\) do dia descrito.
 

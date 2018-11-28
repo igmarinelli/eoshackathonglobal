@@ -1,6 +1,6 @@
 # Table of contents
 
-* [A Hack](README.md)
+* [Hackathon Rules](README.md)
 * [Formato da Competição](formato.md)
 * [Programação](timeline.md)
 * [Critérios de Avaliação](criterios.md)

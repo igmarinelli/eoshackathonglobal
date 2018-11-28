@@ -21,7 +21,6 @@ As equipes inscritas em edições passadas da HackBrazil tiveram, em média, o s
 * Fase pré-receita \(menos de R$ 20.000,00 mil de receita pelas atividades comerciais da empresa\).
 * Times com três participantes e divisão clara de responsabilidades.
 
-  
 _\*A lista acima demonstra o perfil médio da candidatura em edições passadas da HackBrazil, **não se tratando de um perfil restritivo**. Ela é apresentada aqui apenas como exemplo do nosso atual processo. Se a sua equipe apresenta uma ideia inovadora e impactante para a realidade brasileira, você é nosso candidato!_
 
 ## Posso participar com um projeto individual?

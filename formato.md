@@ -2,7 +2,7 @@
 
 ## FORMATO DA COMPETIÇÃO
 
-O formato da HackBrazil é baseado nos estágios de fabricação de um produto e, sem contar o período de inscrição, é composto de três fases: ideação, desenvolvimento e pitch final. 
+O formato da HackBrazil é baseado nos estágios de fabricação de um produto e, sem contar o período de inscrição, é composto de três fases: ideação, desenvolvimento e pitch final.
 
 ### INSCRIÇÃO
 
@@ -41,8 +41,7 @@ A primeira parte da segunda fase consistirá na designação de mentores a cada 
 
 Na segunda parte dessa mesma fase, serão realizados check-ins através de conversa realizada por Skype, Google Hangout ou outra plataforma de conversa online com duração entre 15 e 30 minutos, para que o comitê de avaliação e os mentores da HackBrazil possam acompanhar as equipes. Um calendário ficará disponível na plataforma com maiores detalhes.
 
-**Os check-ins devem ser realizados, imprescindivelmente, dentro do prazo ora estipulado. Em caso de descumprimento do prazo ora estabelecido ou de qualquer outra obrigação prevista neste Regulamento, a equipe infratora será eliminada.**  
-
+**Os check-ins devem ser realizados, imprescindivelmente, dentro do prazo ora estipulado. Em caso de descumprimento do prazo ora estabelecido ou de qualquer outra obrigação prevista neste Regulamento, a equipe infratora será eliminada.**
 
 ### TERCEIRA FASE - PITCH
 

@@ -10,10 +10,5 @@ A missão da HackBrazil é viabilizar projetos e ideias que transformem a realid
 
 ## 2º lugar: **R$ 25.000,00 \(vinte e cinco mil reais\)**
 
-
-
-  
-  
-A equipe vencedora da HackBrazil receberá prêmio no valor de R$75.000 \(setenta e cinco mil reais\) que deverá ser integralmente utilizado no  desenvolvimento do seu projeto. Além disso, a equipe receberá o troféu HackBrazil, a ser produzido no MIT no maior estilo maker usando as mais modernas técnicas de fabricação. O segundo colocado receberá prêmio no valor de R$ 25.000 \(vinte e cinco mil reais\) que deverá ser integralmente utilizado no desenvolvimento do seu projeto.  
-
+A equipe vencedora da HackBrazil receberá prêmio no valor de R$75.000 \(setenta e cinco mil reais\) que deverá ser integralmente utilizado no desenvolvimento do seu projeto. Além disso, a equipe receberá o troféu HackBrazil, a ser produzido no MIT no maior estilo maker usando as mais modernas técnicas de fabricação. O segundo colocado receberá prêmio no valor de R$ 25.000 \(vinte e cinco mil reais\) que deverá ser integralmente utilizado no desenvolvimento do seu projeto.
 

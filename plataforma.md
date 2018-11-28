@@ -1,6 +1,8 @@
 # Plataforma
 
-![](.gitbook/assets/explanation.svg)
 
 
+![](.gitbook/assets/logo-shawee-degrade-1.png)
+
+## 
 

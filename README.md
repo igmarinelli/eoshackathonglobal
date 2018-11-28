@@ -1,18 +1,19 @@
-# A Hack
+---
+description: >-
+  EOS Global Online Hackathon is an EOSIO initiative, the most powerful
+  blockchain for decentralized applications, along with Shawee, Top 10 Startup
+  of the year and main hackathons management platform.
+---
 
-## REGULAMENTO OFICIAL DA HACKBRAZIL 
+# Hackathon Rules
 
-**Salve Nação do Hack!** Bem-vindos à [HackBrazil 2019](http://www.hackbrazil.com/) \("HackBrazil" ou "Competição"\). Abaixo, no regulamento oficial \("Regulamento"\), estão listados todos os detalhes, regras e fases da competição. Se você planeja fazer a sua inscrição, por favor, **leia com atenção esse documento.** A participação na Competição está condicionada à aceitação de todos os termos e condições abaixo, os quais vigorarão desde a presente data e durante toda a duração da HackBrazil.
+## EOS Global Online Hackathon Oficial Guide
 
-> Caso tenha qualquer dúvida, não hesite em contatar a equipe da HackBrazil pelo e-mail [hackbrazil@mit.edu](mailto:hackbrazil@mit.edu).
+**Hello Hack Nation!** Welcome to the [EOS Global Hackathon](http://eoshackathon.global). In this guide are listed all the details, rules and stages of the competition. If you plan to apply, please read this document carefully. Participation in the Competition is conditional upon acceptance of all of the terms and conditions below, which shall be in force from this date and for the entire duration of EOS Global Hackathon.
 
-### A HACK
+> If you have any questions, please do not hesitate to contact the Shawee team at [hi@shawee.io](mailto:hi@shawee.io).
 
-A **HackBrazil** é uma competição anual de iniciativa da [Brazil Conference at Harvard & MIT](http://www.brazilconference.org/) \("Brazil Conference" ou "Conferência"\). Nossa missão é unir brasileiros dos mais diversos ramos - estejam eles entre os mais habilidosos dos _makers_, os mais criativos dos designers ou os mais apaixonados dos empreendedores - para que possamos fazer a diferença em nosso país. Todos os desafios enfrentados por nossa nação estão em jogo e a HackBrazil pretende auxiliar na aceleração de startups, montagem de protótipos e conexão de pessoas para a busca de soluções concretas.
+### The Online Hackathon
 
-As equipes participantes da HackBrazil terão acesso a mentoria, recursos e, principalmente, contatos \(com outros _hackers_, patrocinadores e parceiros da HackBrazil\).
-
-Na última fase da Competição, **5 equipes** selecionadas farão seus pitches finais durante a Brazil Conference 2019, que ocorrerá em Abril de 2019 no MIT e em Harvard. Essas equipes terão acesso a diversos painéis durante a Conferência e vão desempenhar o papel fundamental de representar a tecnologia brasileira.
-
-**A equipe vencedora e o segundo colocado serão escolhidos por nossa banca de jurados e receberão o prêmio final em recursos financeiros.**
+EOS is an annual competition of Brazil Conference at Harvard & MIT \("Brazil Conference"\). Our mission is to unite Brazilians from the most diverse branches - be they among the most skilled of the makers, the most creative of the designers or the most passionate of the entrepreneurs - so that we can make a difference in our country. All the challenges facing our nation are at stake and HackBrazil aims to help accelerate startups, assemble prototypes and connect people to the search for concrete solutions. Participating HackBrazil teams will have access to mentoring, resources and, in particular, contacts \(with other HackBrazil hackers, sponsors and partners\). In the last phase of the Competition, 5 selected teams will make their final pitches during the Brazil Conference 2019, which will take place in April 2019 at MIT and at Harvard. These teams will have access to several panels during the Conference and will play the fundamental role of representing the Brazilian technology. The winning team and second place will be chosen by our jury and will receive the final prize in financial resources.
 
