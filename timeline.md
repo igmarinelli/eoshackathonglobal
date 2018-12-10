@@ -1,56 +1,56 @@
-# Programação
+# Hackathon Schedule
 
-## PROGRAMAÇÃO
+## SCHEDULE
 
-Abaixo estão listadas as datas mais relevantes da HackBrazil e o que acontecerá em cada etapa.
+Below are listed the most relevant dates of EGOH and what will happen at each stage.
 
-> Exceto se especificamente previsto de forma diferente, os prazos abaixo serão encerrados a meia noite \(horário de Brasília\) do dia descrito.
+> The deadlines below will be closed at midnight \(PDT time\) on the day described.
 
-### 06-08-2018
+### 12 Dec 2018
 
-`INÍCIO DAS INSCRIÇÕES PARA A COMPETIÇÃO`
+`BEGINNING OF THE ONLINE REGISTRATION`
 
-* O [link](https://pt.surveymonkey.com/r/HTRPYCD) para o formulário de inscrição da HackBrazil estará disponível no site.
+* The [link](https://eoshackathon.global) to the EGOH application form will be available on the site.
 
-### 17-09-2018
+### 01 Feb 2018
 
-`ÚLTIMO DIA DE INSCRIÇÃO`
+`DEADLINE TO THE ONLINE REGISTRATION`
 
-### 23-09-2018
+### 08 Feb 2018
 
-`INÍCIO DA PRIMEIRA FASE`
+`BEGINNING OF THE IDEATION PHASE`
 
-* As **100** equipes selecionadas deverão produzir um vídeo descrevendo suas ideias e planos de ação para a fase de desenvolvimento
+* The  selected teams are expected to produce a video describing their ideas and action plans for the development phase.
 
-### 05-10-2018
+### 28 Feb 2018
 
-`ENCERRAMENTO DA PRIMEIRA FASE`
+`CLOSING OF THE IDEATION PHASE`
 
-* Último dia para envio do vídeo da primeira fase.
+* Last day for sending the video of the first phase.
 
-### 05-11-2018
+### 02 Mar 2018
 
-`INÍCIO DA SEGUNDA FASE - DESENVOLVIMENTO`
+`BEGINNING OF THE SECOND PHASE - DEVELOPMENT`
 
-* As equipes que forem selecionadas para a segunda fase serão anunciadas e convidadas para a plataforma.
+* Teams that are selected for the second phase will be announced and invited to the platform.
 
-### 31-01-2019
+### 14 Apr 2019
 
-`ENCERRAMENTO DA SEGUNDA FASE`
+`END OF THE SECOND PHASE`
 
-* Data da última avaliação da segunda fase, a qual consistirá em um pitch a ser enviado em formato de vídeo.
+* Date of the last evaluation of the second phase, which will consist of a pitch deck to be sent as well as the prototype link, code or files.
 
-### 07-02-2019
+### 30 Apr 2019
 
-`ANÚNCIO DOS FINALISTAS`
+`FINALISTS ANNOUNCEMENT` 
 
-* As **5 equipes** finalistas da HackBrazil serão anunciadas e o comitê de organização da HackBrazil entrará em contato direto com tais equipes para organizar detalhes da viagem a Cambridge, MA \(EUA\), para a Brazil Conference 2019. As últimas semanas antes da Brazil Conference deverão ser usadas para ajustar os últimos detalhes do projeto e preparar o pitch final.
+* The **5 finalist teams** of EGOH will be announced and the organizing committee will contact these teams directly to adjust the final details of the project and prepare the final pitch.
 
-### 05-04-2019
+### 10 May 2019
 
-`FASE FINAL - BRAZIL CONFERENCE`
+`FINAL PHASE - EGOH`
 
-* O [evento](https://www.brazilconference.org/) terá duração de dois dias e os finalistas terão a chance de acompanhar diversos painéis da conferência. A final consistirá de um pitch ao vivo para o corpo de jurados e participantes da conferência e será transmitida pela internet para o mundo todo.
+* In the last phase of the EGOH, the 5 selected teams will make their final pitches during a special Webinar broadcasted by Shawee, along with our selected jury. The winning team will be chosen by our jury and will receive the final prize in financial resources.
 
-> A organização da HackBrazil reserva-se o direito de alterar a programação e as datas previstas acima a qualquer momento, devendo comunicar as alterações efetuadas aos participantes da Competição da maneira que entender mais apropriada.
+> EGOH organization reserves the right to change the schedule and the dates provided above at any time, and must communicate the changes made to the participants of the Hackathon in the way that it deems most appropriate.
 

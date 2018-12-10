@@ -1,51 +1,45 @@
-# Formato da Competição
+---
+description: >-
+  EGOH setup is based on the stages from ideation to prototyping a product and,
+  after the registration process, you will go through 3 stages: ideation,
+  development and final pitch.
+---
 
-## FORMATO DA COMPETIÇÃO
+# Hackathon Phases
 
-O formato da HackBrazil é baseado nos estágios de fabricação de um produto e, sem contar o período de inscrição, é composto de três fases: ideação, desenvolvimento e pitch final.
+### 0. ONLINE REGISTRATION
 
-### INSCRIÇÃO
+The registration will consist of an [online forms](https://eoshackathon.global). Teams must fill out the application form by the link on our website and accept the terms and conditions set forth in this document.
 
-A inscrição consistirá de um formulário online e aceite do Regulamento da Competição. As equipes devem preencher o formulário de application pelo [link em nosso site](https://pt.surveymonkey.com/r/HTRPYCD) e aceitar os termos e condições previstos neste documento.
+During this phase, we will know the registered teams, their respective members and the idea in which the teams intend to work during EGOH.
 
-Durante essa fase, conheceremos as equipes inscritas, seus respectivos membros e a ideia na qual as equipes pretendem trabalhar durante a HackBrazil.
+Teams should consider the following rules:
 
-**A HackBrazil aceitará ideias de empreendedores brasileiros, de todas as indústrias, em fase inicial de desenvolvimento e que demonstram um claro impacto social na realidade brasileira.** As equipes devem levar em consideração as seguintes regras:
+* Each registered team may only submit one idea for the purpose of the Hackathon.
+* Participants may not be part of more than one registered team.
+* Teams must contain at least two participants, so individual entries will not be accepted. 
+* Participants must be active and engaged members of the team.
+* There is no maximum limit for the number of people who can work on the project, but the team can only register at most 3 members as representatives, which will be the points of contact between the Hackathon and the team.
 
-* Cada time inscrito poderá apresentar apenas uma ideia para fins da Competição.
-* Os participantes não poderão fazer parte de mais de um time inscrito.
-* Os times devem conter ao menos dois participantes, de forma que não serão aceitas inscrições individuais. Os participantes devem ser membros ativos e engajados no time. Não há limite máximo para o número de pessoas que podem trabalhar no projeto, mas a equipe só poderá inscrever no máximo 3 membros como representantes, que serão os pontos de contato entre a Competição e a equipe.
-* Pelo menos um participante de cada time inscrito deve ter cidadania brasileira ou residir no Brasil.
-* Todos os membros da equipe deve ter concluído o Ensino Médio, e todos membros devem ser maiores de idade \(18 anos\).
-* Todos os membros da equipe devem ter reconhecida idoneidade moral e reputação ilibada, sendo passíveis de eliminação quaisquer equipes que tenham membros que estejam sendo, ou venham a ser, processados ou investigados, cível, administrativa ou criminalmente.
+### 1. IDEATION
 
-A proficiência em inglês não é obrigatória, pois todas as etapas da Competição serão realizadas em português.
+**Up to 100 teams** will be selected for the moving to the Ideation phase, which will consist of a short video describing the team and project to be worked on. More specific details about the video will be communicated to qualified teams.
 
-As equipes inscritas e seus respectivos membros reconhecem que sua inscrição e participação na Competição são feitas de forma gratuita e não-onerosa, bem como, na hipótese cabível, não constituem compromisso ou promessa de qualquer relação presente ou futura com a HackBrazil, seus organizadores ou patrocinadores.
+All members of the selected teams will receive an invitation to access the platform of [**Shawee**](https://shawee.io) **\("Platform"\)**, in which they can communicate with mentors and other participants of the Competition.
 
-### PRIMEIRA FASE - IDEAÇÃO
+### 2. DEVELOPMENT
 
-**100 equipes** serão selecionadas para a primeira fase da Competição, a qual consistirá na elaboração de um vídeo curto descrevendo a equipe e o projeto a ser trabalhado. Detalhes mais específicos sobre o vídeo serão comunicados às equipes qualificadas.
+ Among the teams that are part of the Ideation phase, a maximum of 30 teams will be selected to the Development phase. 
 
-### SEGUNDA FASE - DESENVOLVIMENTO
+The first part of the Development will consist of assigning mentors to each team. This will occur within the Platform, with hackers being integrated into the EOSIO network, with access to mentors and other participants of the Hackathon.
 
-O principal objetivo da segunda fase da Competição é manter uma rede integrada, expressiva e viva de _hackers_, _makers_ e empreendedores, gerando uma nova comunidade de tecnologia do Brasil.
+In the second part of the same phase, follow-ups will be conducted through a conversation held by Skype, Google Hangout or other online conversation platform with a duration of 15-30 minutes, so that the evaluation committee and the mentors of EGOH can follow the teams. A calendar will be available on the platform in more detail.
 
-Dentre as equipes integrantes da primeira fase, serão selecionadas, **no máximo, 30 equipes** para a segunda fase \(em adição às equipes selecionadas pelo Passe Hacker\). Todos os membros das equipes selecionadas receberão um convite para acesso à plataforma da HackBrazil \(“Plataforma”\), na qual poderão se comunicar com mentores e outros participantes da Competição.
+Follow-up must be done within the stipulated time period. In case of failure to comply with the deadline established herein or any other obligation set forth in these Rules, the team will be eliminated.
 
-> Uma lista de espera com outras equipes será mantida para casos de desistência.
+### 3. FINAL PITCH
 
-Além das equipes já qualificadas, também teremos vagas reservadas para o [Passe Hacker](https://hackbrazil.gitbooks.io/regulamento/passe-hacker.html). Conforme descrito com maiores detalhes mais adiante, as equipes selecionadas no contexto desse programa \(**no máximo, 10**\) estarão dispensadas da primeira fase, sendo diretamente qualificadas para a segunda fase.
+The final phase of the Hackathon will take place during Shawee's Webinar, to be held in May 2019, in the Bay Area, broadcasted online. The webinar will be attended by special guests from the most diverse areas, including investors and important names of the technology area in the EOSIO scenario. More details on the final stage will be announced after the announcement of the finalist teams.
 
-A primeira parte da segunda fase consistirá na designação de mentores a cada uma das equipes. Isso ocorrerá dentro da Plataforma, sendo que os hackers serão integrados à rede da HackBrazil, com acesso aos mentores e outros participantes da Competição.
-
-Na segunda parte dessa mesma fase, serão realizados check-ins através de conversa realizada por Skype, Google Hangout ou outra plataforma de conversa online com duração entre 15 e 30 minutos, para que o comitê de avaliação e os mentores da HackBrazil possam acompanhar as equipes. Um calendário ficará disponível na plataforma com maiores detalhes.
-
-**Os check-ins devem ser realizados, imprescindivelmente, dentro do prazo ora estipulado. Em caso de descumprimento do prazo ora estabelecido ou de qualquer outra obrigação prevista neste Regulamento, a equipe infratora será eliminada.**
-
-### TERCEIRA FASE - PITCH
-
-A fase final da Competição acontecerá durante a [Brazil Conference at Harvard & MIT 2019](http://www.brazilconference.org/), a ser realizada em abril de 2019 em Cambridge, Massachusetts. As equipes finalistas terão a oportunidade de assistir aos painéis da conferência. O evento contará com a participação de palestrantes das mais diversas áreas, inclusive de investidores e importantes nomes da área de tecnologia atuantes no cenário brasileiro. Mais detalhes sobre a etapa final serão divulgados após o anúncio das equipes finalistas.
-
-Após o pitch, a equipe vencedora será escolhida por nossa banca de jurados e receberá o prêmio final em recursos financeiros.
+After the pitch, the winning team will be chosen by our jury and will receive the final prize in financial resources.
 

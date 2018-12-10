@@ -1,49 +1,36 @@
 # FAQ
 
-Essa página contém algumas das perguntas mais comuns feitas pelos participantes da HackBrazil.
+This page contains some of the most common questions asked by EGOH participants.
 
-## Que tipos de projetos podem participar da competição?
+## What types of projects can participate in the competition?
 
-Apesar do nome, a HackBrazil não é só para projetos de engenharia de software. Qualquer projeto que solucione um problema da realidade brasileira pode participar! Por exemplo, em anos anteriores tivemos projetos de engenharia civil, elétrica e business!
+Despite its name, EGOH is not just for software engineering projects. Any project that solves a problem with blockchain in any sector can participate! 
 
-## Quantas pessoas a minha equipe pode ter?
+## How many people can my team have?
 
-Não há limite máximo no número de pessoas que podem trabalhar no projeto. Porém a equipe deve inscrever **no mínimo dois e no máximo três membros** como representantes, que serão o ponto de contato entre a organização e a equipe.
+There is no maximum limit on the number of people who can work on the project. However, the team must enroll **at least two and a maximum of three members** as representatives, which will be the point of contact between the organization and the team.
 
-Além disso, caso a equipe se classifique para a fase final, a HackBrazil pagará as despesas para **no** **máximo três** representantes da equipe participarem da Brazil Conference no MIT e em Harvard, onde os representantes irão apresentar o pitch na frente dos nossos jurados.
+## At what stage of development should the project be to participate in EGOH?
 
-## Em qual estágio de desenvolvimento o projeto deve estar para participar da HackBrazil?
+The teams enrolled in past editions of EGOH had, on average, the following profile
 
-As equipes inscritas em edições passadas da HackBrazil tiveram, em média, o seguinte perfil\*:
+* Innovative product or service, focused on the blockchain space.
+* Initial development stage \(idea / prototype not tested in the market / minimum viable product / pre-revenue phase.
+* Teams with three participants and a clear division of responsibilities.
 
-* Produto ou serviço inovador, com foco no mercado brasileiro e com impacto social.
-* Estágio inicial de desenvolvimento \(ideia / protótipo não testado em mercado / mínimo produto viável / produto já lançado no mercado, porém incipiente\).
-* Fase pré-receita \(menos de R$ 20.000,00 mil de receita pelas atividades comerciais da empresa\).
-* Times com três participantes e divisão clara de responsabilidades.
+## Can I participate with an individual project?
 
-_\*A lista acima demonstra o perfil médio da candidatura em edições passadas da HackBrazil, **não se tratando de um perfil restritivo**. Ela é apresentada aqui apenas como exemplo do nosso atual processo. Se a sua equipe apresenta uma ideia inovadora e impactante para a realidade brasileira, você é nosso candidato!_
+EGOH requires that each team have at least two members, as we believe in the need for different skills for the success of a startup.
 
-## Posso participar com um projeto individual?
+## Can I participate in two different teams?
 
-A HackBrazil exige que cada equipe tenha pelo menos dois membros, pois acreditamos na necessidade de existência de diferentes habilidades para o sucesso de uma startup.
+No. Each participant can only apply with an idea or team.
 
-## Posso participar de duas equipes diferentes?
+## Can I submit a nonprofit project?
 
-Não. Cada participante só pode aplicar com uma ideia ou equipe.
+Yes! However, even if it is not a project that focuses on profit, the team must show that the project is economically sustainable, that is, that there is a business plan to keep the project running.
 
-## Ainda estou no Ensino Médio, posso participar?
+## I have a question that is not listed here, who can I talk to?
 
-Infelizmente, não! A HackBrazil exige que os membros da equipe já tenham concluído o Ensino Médio. Entretanto, fique ligado\(a\) e se inscreva nos próximos anos! Queremos conhecer a sua ideia.
-
-## Posso inscrever um projeto sem fins lucrativos?
-
-Sim! Porém, mesmo não sendo um projeto que foque em lucro, a equipe deve mostrar que o projeto é sustentável economicamente, ouu seja, que há um plano de negócios para manter o projeto funcionando.
-
-## Vocês têm exemplos de projetos e pitches anteriores?
-
-[Aqui](https://www.youtube.com/watch?v=qH4unheA9m0&t=80s) estão os pitches dos finalistas da HackBrazil 2018.
-
-## Eu tenho uma dúvida que não está listada aqui, com quem eu posso falar?
-
-O email da organização da HackBrazil é hackbrazil@mit.edu.
+Drop us an email at **hi@shawee.io**.
 
